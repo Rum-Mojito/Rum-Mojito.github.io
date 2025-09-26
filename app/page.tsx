@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { ArrowRight, Code, Database, Brain, Globe } from 'lucide-react';
+import { ArrowRight, Database, Brain, Globe } from 'lucide-react';
 
 export default function Home() {
   return (

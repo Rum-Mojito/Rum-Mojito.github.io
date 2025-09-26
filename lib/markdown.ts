@@ -62,7 +62,7 @@ export function getBlogPost(slug: string): BlogPost | null {
       summary: data.summary,
       content,
     };
-  } catch (error) {
+  } catch {
     return null;
   }
 }
@@ -106,7 +106,7 @@ export function getProject(slug: string): Project | null {
       summary: data.summary,
       content,
     };
-  } catch (error) {
+  } catch {
     return null;
   }
 }
