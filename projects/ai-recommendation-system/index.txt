@@ -1,0 +1,185 @@
+1:"$Sreact.fragment"
+2:I[9177,["619","static/chunks/619-ba102abea3e3d0e4.js","177","static/chunks/app/layout-183680ea39921db7.js"],"default"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+c:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/77e7eac06870927a.css","style"]
+0:{"P":null,"b":"1iv1ibBG0DsEbF_VHP3_o","p":"","c":["","projects","ai-recommendation-system",""],"i":false,"f":[[["",{"children":["projects",{"children":[["slug","ai-recommendation-system","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/77e7eac06870927a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"__className_f367f3","children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-grow","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-gray-900 text-white","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-8","children":[["$","div",null,{"className":"col-span-1 md:col-span-2","children":[["$","h3",null,{"className":"text-2xl font-bold mb-4","children":"Rum Mojito"}],["$","p",null,{"className":"text-gray-300 mb-4","children":"AI 全栈开发者，专注于构建高性能的智能应用。"}],["$","div",null,{"className":"flex space-x-4","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]}],["$","a",null,{"href":"https://linkedin.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-linkedin","aria-hidden":"true","children":[["$","path","c2jq9f",{"d":"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"}],["$","rect","mk3on5",{"width":"4","height":"12","x":"2","y":"9"}],["$","circle","bt5ra8",{"cx":"4","cy":"4","r":"2"}],"$undefined"]}]}],["$","a",null,{"href":"mailto:contact@example.com","className":"text-gray-300 hover:text-white transition-colors","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}]}]]}]]}],"$L5","$L6"]}],"$L7"]}]}]]}]}]}]]}],{"children":["projects","$L8",{"children":[["slug","ai-recommendation-system","d"],"$L9",{"children":["__PAGE__","$La",{},null,false]},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","559","static/chunks/559-840078537fb1f050.js","419","static/chunks/app/projects/%5Bslug%5D/page-9397d4cc8f1882c3.js"],""]
+f:I[4431,[],"OutletBoundary"]
+11:I[5278,[],"AsyncMetadataOutlet"]
+13:I[4431,[],"ViewportBoundary"]
+15:I[4431,[],"MetadataBoundary"]
+16:"$Sreact.suspense"
+5:["$","div",null,{"children":[["$","h4",null,{"className":"text-lg font-semibold mb-4","children":"快速导航"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$Ld",null,{"href":"/","className":"text-gray-300 hover:text-white transition-colors","children":"首页"}]}],["$","li",null,{"children":["$","$Ld",null,{"href":"/blog","className":"text-gray-300 hover:text-white transition-colors","children":"博客"}]}],["$","li",null,{"children":["$","$Ld",null,{"href":"/projects","className":"text-gray-300 hover:text-white transition-colors","children":"项目"}]}],["$","li",null,{"children":["$","$Ld",null,{"href":"/about","className":"text-gray-300 hover:text-white transition-colors","children":"关于"}]}]]}]]}]
+6:["$","div",null,{"children":[["$","h4",null,{"className":"text-lg font-semibold mb-4","children":"联系方式"}],["$","ul",null,{"className":"space-y-2 text-gray-300","children":[["$","li",null,{"children":"Email: contact@example.com"}],["$","li",null,{"children":"GitHub: @rum-mojito"}],["$","li",null,{"children":"LinkedIn: rum-mojito"}]]}]]}]
+7:["$","div",null,{"className":"border-t border-gray-700 mt-8 pt-8 text-center text-gray-300","children":["$","p",null,{"children":"© 2025 Rum Mojito. All rights reserved."}]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":["$Le",null,["$","$Lf",null,{"children":["$L10",["$","$L11",null,{"promise":"$@12"}]]}]]}]
+b:["$","$1","h",{"children":[null,[["$","$L13",null,{"children":"$L14"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L15",null,{"children":["$","div",null,{"hidden":true,"children":["$","$16",null,{"fallback":null,"children":"$L17"}]}]}]]}]
+18:I[5840,["619","static/chunks/619-ba102abea3e3d0e4.js","559","static/chunks/559-840078537fb1f050.js","419","static/chunks/app/projects/%5Bslug%5D/page-9397d4cc8f1882c3.js"],"default"]
+19:T110e,
+本项目基于 Transformer 模型与协同过滤，结合用户历史行为数据，构建了电商推荐系统。模型通过 PyTorch 训练，并通过 FastAPI 提供推理服务，最终上线后点击率提升了 **18%**。
+
+## 系统架构
+
+### 整体架构
+
+```
+用户行为数据 → 特征工程 → 模型训练 → 模型服务 → 推荐结果
+```
+
+### 技术栈
+
+- **深度学习**：PyTorch + Transformers
+- **后端服务**：FastAPI + Python
+- **数据存储**：PostgreSQL + Redis
+- **模型部署**：Docker + Kubernetes
+- **监控告警**：Prometheus + Grafana
+
+## 核心算法
+
+### 1. Transformer 模型
+
+使用 Transformer 架构处理用户行为序列：
+
+```python
+class UserBehaviorTransformer(nn.Module):
+    def __init__(self, vocab_size, d_model, nhead, num_layers):
+        super().__init__()
+        self.embedding = nn.Embedding(vocab_size, d_model)
+        self.transformer = nn.Transformer(
+            d_model=d_model,
+            nhead=nhead,
+            num_encoder_layers=num_layers
+        )
+        self.output_layer = nn.Linear(d_model, vocab_size)
+    
+    def forward(self, x):
+        embedded = self.embedding(x)
+        output = self.transformer(embedded)
+        return self.output_layer(output)
+```
+
+### 2. 协同过滤
+
+结合用户-物品交互矩阵进行协同过滤：
+
+- **用户协同过滤**：基于相似用户的行为推荐
+- **物品协同过滤**：基于相似物品的关联推荐
+- **矩阵分解**：使用 SVD 降维处理稀疏矩阵
+
+### 3. 多目标优化
+
+同时优化多个业务指标：
+
+- **点击率（CTR）**：提升用户点击概率
+- **转化率（CVR）**：促进用户购买行为
+- **多样性**：保证推荐结果的多样性
+- **新颖性**：推荐用户未接触过的内容
+
+## 特征工程
+
+### 用户特征
+
+- 基础属性：年龄、性别、地域
+- 行为特征：浏览、点击、购买历史
+- 偏好特征：品类偏好、价格敏感度
+
+### 物品特征
+
+- 基础属性：类别、品牌、价格
+- 内容特征：标题、描述、图片
+- 统计特征：热度、评分、销量
+
+### 上下文特征
+
+- 时间特征：小时、星期、季节
+- 场景特征：设备类型、网络环境
+- 位置特征：GPS 坐标、商圈信息
+
+## 模型训练
+
+### 数据准备
+
+1. **数据清洗**：处理缺失值、异常值
+2. **特征编码**：类别特征 one-hot 编码
+3. **序列构建**：构建用户行为序列
+4. **负采样**：平衡正负样本比例
+
+### 训练策略
+
+```python
+# 多任务学习
+def multi_task_loss(predictions, labels, weights):
+    ctr_loss = F.binary_cross_entropy(predictions['ctr'], labels['ctr'])
+    cvr_loss = F.binary_cross_entropy(predictions['cvr'], labels['cvr'])
+    return weights['ctr'] * ctr_loss + weights['cvr'] * cvr_loss
+```
+
+### 模型评估
+
+- **离线评估**：AUC、NDCG、Hit Rate
+- **在线评估**：A/B 测试、业务指标
+- **模型解释**：SHAP 值分析特征重要性
+
+## 服务部署
+
+### API 设计
+
+```python
+@app.post("/recommend")
+async def get_recommendations(
+    user_id: int,
+    num_items: int = 10,
+    context: dict = None
+):
+    # 获取用户特征
+    user_features = get_user_features(user_id)
+    
+    # 模型推理
+    scores = model.predict(user_features, context)
+    
+    # 返回推荐结果
+    return {"recommendations": scores[:num_items]}
+```
+
+### 性能优化
+
+1. **模型压缩**：量化、剪枝、蒸馏
+2. **缓存策略**：Redis 缓存热门推荐
+3. **批处理**：批量推理提升吞吐量
+4. **异步处理**：非阻塞推荐计算
+
+## 业务效果
+
+### 核心指标
+
+- **点击率提升**：18% CTR 提升
+- **转化率提升**：12% CVR 提升
+- **用户满意度**：NPS 提升 15%
+- **系统性能**：平均响应时间 < 50ms
+
+### 技术成果
+
+1. **模型效果**：离线 AUC 达到 0.85
+2. **系统稳定性**：99.9% 服务可用性
+3. **扩展能力**：支持千万级用户
+4. **实时性**：毫秒级推荐响应
+
+## 未来规划
+
+1. **模型升级**：引入图神经网络（GNN）
+2. **实时学习**：在线学习和模型更新
+3. **多模态融合**：结合文本、图像特征
+4. **联邦学习**：保护用户隐私的分布式训练
+
+通过这个项目，我深入理解了推荐系统的核心技术，并在实际业务中取得了显著效果。这为我在 AI 全栈开发领域的进一步发展奠定了坚实基础。
+e:["$","div",null,{"className":"bg-white min-h-screen","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","$Ld",null,{"href":"/projects","className":"inline-flex items-center text-blue-600 hover:text-blue-800 mb-8 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"返回项目列表"]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"AI 驱动的个性化推荐系统"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","Python",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800","children":"Python"}],["$","span","PyTorch",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800","children":"PyTorch"}],["$","span","FastAPI",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800","children":"FastAPI"}],["$","span","Redis",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800","children":"Redis"}],["$","span","PostgreSQL",{"className":"inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800","children":"PostgreSQL"}]]}],["$","div",null,{"className":"flex items-center gap-4 mb-6","children":[["$","a",null,{"href":"https://github.com/yourname/ai-recommendation-system","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-4 py-2 border border-gray-300 rounded-md text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github mr-2","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}],"查看源码"]}],["$","a",null,{"href":"https://github.com/yourname/ai-recommendation-system","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center px-4 py-2 border border-transparent rounded-md text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-external-link mr-2","aria-hidden":"true","children":[["$","path","1q9fwt",{"d":"M15 3h6v6"}],["$","path","gplh6r",{"d":"M10 14 21 3"}],["$","path","a6xqqp",{"d":"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"}],"$undefined"]}],"访问项目"]}]]}]]}],["$","article",null,{"className":"prose prose-lg max-w-none","children":["$","$L18",null,{"content":"$19"}]}]]}]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:null
+1a:I[622,[],"IconMark"]
+12:{"metadata":[["$","title","0",{"children":"Rum Mojito - AI 全栈开发"}],["$","meta","1",{"name":"description","content":"专注于 AI 和全栈开发的技术博客和项目展示"}],["$","meta","2",{"name":"author","content":"Rum Mojito"}],["$","meta","3",{"name":"keywords","content":"大数据,AI,全栈开发,Next.js,Python,机器学习"}],["$","meta","4",{"property":"og:title","content":"Rum Mojito - AI 全栈开发"}],["$","meta","5",{"property":"og:description","content":"专注于 AI 和全栈开发的技术博客和项目展示"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Rum Mojito - AI 全栈开发"}],["$","meta","9",{"name":"twitter:description","content":"专注于 AI 和全栈开发的技术博客和项目展示"}],["$","link","10",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L1a","11",{}]],"error":null,"digest":"$undefined"}
+17:"$12:metadata"
