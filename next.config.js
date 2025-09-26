@@ -5,8 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/Rum-Mojito.github.io' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/Rum-Mojito.github.io/' : '',
 }
 
 module.exports = nextConfig
