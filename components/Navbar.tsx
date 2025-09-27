@@ -22,7 +22,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0">
               <span className="text-2xl font-bold text-gray-900">
-                Rum Mojito
+                爱昕昕老婆的Allen 赵航
               </span>
             </Link>
           </div>
