@@ -7,12 +7,12 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Rum Mojito - AI 全栈开发',
+  title: 'Allen 赵航 - 爱昕昕老婆的 AI 全栈开发',
   description: '专注于 AI 和全栈开发的技术博客和项目展示',
   keywords: ['大数据', 'AI', '全栈开发', 'Next.js', 'Python', '机器学习'],
-  authors: [{ name: 'Rum Mojito' }],
+  authors: [{ name: 'Allen 赵航' }],
   openGraph: {
-    title: 'Rum Mojito - AI 全栈开发',
+    title: 'Allen 赵航 - 爱昕昕老婆的 AI 全栈开发',
     description: '专注于 AI 和全栈开发的技术博客和项目展示',
     type: 'website',
   },
